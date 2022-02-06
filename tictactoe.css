@@ -15,13 +15,13 @@ body
 .cover
 {
     width: 100%;
-    height: 37%;
+    height: 21.2rem;
     max-width: 24rem;
     background-color: lightgreen;
     opacity: 0.5;
     position: absolute;
     z-index: 100;
-    display: none;
+    display: none; 
 }
 
 .box 
